@@ -1,6 +1,6 @@
 import React, { useState }  from 'react';
 
-const API_KEY = "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";
+const API_KEY = "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";
 // "Explain things like you would to a 10 year old learning how to code."
 const systemMessage = { //  Explain things like you're talking to a software professional with 5 years of experience.
     "role": "system", "content": "inflation belly professional"
